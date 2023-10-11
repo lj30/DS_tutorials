@@ -1,4 +1,4 @@
-# Tutorials_DS
+# Tutorials DS
 
 This is a set of tutorials with code implementation to understand different topics about data science.
 
